@@ -12,6 +12,5 @@
 ## Liste de parties TODO :
 - historique/intro
 - fonctionnement
-- projets utilisant cette méthode
-- avantages/inconvénients
+- projets utilisant cette méthode, avantages/inconvénients
 - ...
