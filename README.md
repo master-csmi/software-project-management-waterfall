@@ -4,3 +4,4 @@
 - Corentin Mengel
 - Vincent Italiano
 - Lucas Jacquin
+- Antoine Schuffenecker
