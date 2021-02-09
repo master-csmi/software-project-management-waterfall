@@ -10,7 +10,8 @@
 
 
 ## Liste de parties TODO :
-- historique/intro
-- fonctionnement
-- projets utilisant cette méthode, avantages/inconvénients
-- ...
+- historique/intro(Corentin)
+- fonctionnement(Vincent/Lucas)
+- projets utilisant cette méthode(Abdel)
+- avantagesinconvénients (Antoine)
+- bliblio (juste les liens de vos recherches)
