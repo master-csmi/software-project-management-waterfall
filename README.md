@@ -9,9 +9,4 @@
 - Abdelhamid Moltazim
 
 
-## Liste de parties TODO :
-- historique/intro (Corentin)
-- fonctionnement (Vincent/Lucas)
-- projets utilisant cette méthode (Abdel)
-- avantages/inconvénients (Antoine)
-- biblio (juste les liens de vos recherches)
+[Link to final presentation](https://github.com/master-csmi/software-project-management-waterfall/blob/main/Final%20presentation/final_presentation.pdf)
